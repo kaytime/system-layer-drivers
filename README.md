@@ -1,4 +1,4 @@
-# Kaytime Drivers layout Meta package
+# Kaytime Drivers layout Meta package [![PackageCloud.](https://github.com/kaytime/system-layer-drivers/actions/workflows/build.yml/badge.svg)](https://github.com/kaytime/system-layer-drivers/actions/workflows/build.yml)
 
 This repository contains the source to create the `syteme-layer-drivers` metapackage.
 
