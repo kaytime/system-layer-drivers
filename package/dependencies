@@ -1,0 +1,93 @@
+# Comments start with a '#'.
+# Empty lines are ignored.
+
+#    = Hardware and Architecture Support =
+
+broadcom-sta-common
+broadcom-sta-dkms
+broadcom-sta-source
+dkms
+exfat-fuse
+exfatprogs
+f2fs-tools
+firmware-b43-installer
+firmware-brcm80211
+firmware-sof-signed
+go-mtpfs
+ifuse
+libimobiledevice-utils
+libimobiledevice6
+linux-firmware
+ntfs-3g
+steam-devices
+thunderbolt-tools
+
+#    = Printers =
+
+openprinting-ppds
+printer-driver-foo2zjs
+printer-driver-foo2zjs-common
+printer-driver-m2300w
+printer-driver-c2esp
+printer-driver-min12xxw
+printer-driver-sag-gdi
+printer-driver-cups-pdf
+printer-driver-gutenprint
+printer-driver-splix
+printer-driver-brlaser
+printer-driver-ptouch
+printer-driver-pxljr
+gutenprint-locales
+printer-driver-c2050
+printer-driver-cjet
+printer-driver-dymo
+printer-driver-escpr
+printer-driver-fujixerox
+printer-driver-indexbraille
+printer-driver-oki
+
+#    = XORG Drivers =
+
+xserver-xorg-input-aiptek
+xserver-xorg-input-elographics
+xserver-xorg-input-evdev
+xserver-xorg-input-kbd
+xserver-xorg-input-libinput
+xserver-xorg-input-mouse
+xserver-xorg-input-mtrack
+xserver-xorg-input-mutouch
+xserver-xorg-input-synaptics
+xserver-xorg-input-wacom
+xserver-xorg-input-xwiimote
+xserver-xorg-video-amdgpu
+xserver-xorg-video-intel
+xserver-xorg-video-qxl
+xserver-xorg-video-radeon
+xserver-xorg-video-vmware
+
+#    = Nvidia supporting bits =
+
+
+#    = AMD and Radeon supporting bits =
+
+amdgpu-firmware-extra
+amdvlk
+libdrm-amdgpu1
+libdrm-radeon1
+
+#    = Intel supporting bits =
+
+i965-va-driver
+libdrm-intel1
+libva-drm2
+libva-glx2
+libva-x11-2
+libva2
+
+#    = Mesa supporting bits =
+
+libvdpau-va-gl1
+libvulkan1
+mesa-va-drivers
+mesa-vdpau-drivers
+mesa-vulkan-drivers
